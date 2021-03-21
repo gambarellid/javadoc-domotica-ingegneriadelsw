@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"com.unibs.progettoingesw.DBinteraction"},{"l":"com.unibs.progettoingesw.gruppo255"},{"l":"com.unibs.progettoingesw.mylib"}]
